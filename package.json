@@ -12,7 +12,7 @@
     "web-vitals": "^2.1.4"
   },
 
-  "homepage": "https://DeraJudy.github.io/TicTacToe",
+  "homepage": "https://deraJudy.github.io/TicTacToe/",
 
   "scripts": {
     "start": "react-scripts start",
